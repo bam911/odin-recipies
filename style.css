@@ -1,0 +1,18 @@
+.title{
+    text-align: center;
+    color: aqua;
+}
+
+.main-list li{
+display: inline;
+margin: 50px 100px ;
+color: aliceblue;
+}
+.main-list{
+    text-align: center;
+    background-color: blue;
+}
+.main-list li a{
+color: aliceblue;
+font-weight: bold;
+}
